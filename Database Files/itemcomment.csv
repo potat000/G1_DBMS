@@ -1,0 +1,101 @@
+userID,shopID,shopname,itemID,item,commentID,itemcomment
+1,1,小公寓,1,草莓歐蕾,1,好好喝！
+2,1,小公寓,2,檸檬蘋果,1,好難喝
+3,1,小公寓,3,洋甘菊茶,1,還不錯
+4,1,小公寓,4,櫻花煎茶,1,有點太淡
+5,1,小公寓,5,原味鬆餅,1,有點乾
+6,1,小公寓,6,藍莓貝果,1,好吃
+7,1,小公寓,7,濃縮咖啡,1,普通
+8,1,小公寓,8,美式咖啡,1,好吃
+9,1,小公寓,1,草莓歐蕾,1,太甜了
+10,1,小公寓,2,檸檬蘋果,1,好吃
+11,1,小公寓,3,洋甘菊茶,1,難吃
+12,1,小公寓,4,櫻花煎茶,1,普通
+13,1,小公寓,5,原味鬆餅,1,有點硬
+14,1,小公寓,6,藍莓貝果,1,餡料太甜了
+15,1,小公寓,7,濃縮咖啡,1,好喝
+16,1,小公寓,8,美式咖啡,1,好喝
+17,1,小公寓,1,草莓歐蕾,1,好喝
+18,1,小公寓,2,檸檬蘋果,1,好吃
+1,2,惜惜咖啡,1,美式咖啡,2,難吃
+2,2,惜惜咖啡,2,拿鐵,2,有怪味
+3,2,惜惜咖啡,3,奶茶,2,太甜了
+4,2,惜惜咖啡,4,抹茶拿鐵,2,好喝
+5,2,惜惜咖啡,5,珍珠奶茶,2,難喝
+6,2,惜惜咖啡,6,芋頭鮮奶,2,好喝
+7,2,惜惜咖啡,7,蘋果牛奶,2,難喝
+8,2,惜惜咖啡,8,橘子牛奶,2,好喝
+9,2,惜惜咖啡,9,芒果牛奶,2,難喝
+10,2,惜惜咖啡,10,香蕉牛奶,2,好喝
+11,2,惜惜咖啡,11,濃縮咖啡,2,難喝
+12,2,惜惜咖啡,12,奶昔,2,超驚豔
+13,2,惜惜咖啡,1,美式咖啡,2,普通
+14,2,惜惜咖啡,2,拿鐵,2,超驚豔
+15,2,惜惜咖啡,3,奶茶,2,普通
+16,2,惜惜咖啡,4,抹茶拿鐵,2,普通
+17,2,惜惜咖啡,5,珍珠奶茶,2,普通
+18,2,惜惜咖啡,6,芋頭鮮奶,2,超驚豔
+19,2,惜惜咖啡,7,蘋果牛奶,1,太甜了
+20,2,惜惜咖啡,8,橘子牛奶,1,超驚豔
+21,2,惜惜咖啡,9,芒果牛奶,1,太甜了
+22,2,惜惜咖啡,10,香蕉牛奶,1,普通
+23,2,惜惜咖啡,11,濃縮咖啡,1,普通
+24,2,惜惜咖啡,12,奶昔,1,好吃
+1,3,Ruins Coffee Roasters,13,卡布奇諾,3,好吃
+2,3,Ruins Coffee Roasters,14,提拉米蘇,3,GOOD
+3,3,Ruins Coffee Roasters,15,起司蛋糕,3,酸甜讚
+4,3,Ruins Coffee Roasters,16,草莓蛋糕,3,好好吃！
+5,3,Ruins Coffee Roasters,17,芋頭蛋糕,3,超驚豔
+6,3,Ruins Coffee Roasters,18,焦糖布丁,3,普通
+7,3,Ruins Coffee Roasters,19,蛋塔,3,普通
+8,3,Ruins Coffee Roasters,20,手工餅乾,3,普通
+9,3,Ruins Coffee Roasters,21,沙拉,3,超驚豔
+10,3,Ruins Coffee Roasters,22,藍莓貝果,3,超驚豔
+11,3,Ruins Coffee Roasters,13,卡布奇諾,3,超驚豔
+12,3,Ruins Coffee Roasters,14,提拉米蘇,3,好吃
+13,3,Ruins Coffee Roasters,15,起司蛋糕,3,太甜了
+14,3,Ruins Coffee Roasters,16,草莓蛋糕,3,好吃
+15,3,Ruins Coffee Roasters,17,芋頭蛋糕,3,太甜了
+16,3,Ruins Coffee Roasters,18,焦糖布丁,3,好吃
+17,3,Ruins Coffee Roasters,19,蛋塔,3,太甜了
+18,3,Ruins Coffee Roasters,20,手工餅乾,3,好吃
+19,3,Ruins Coffee Roasters,21,沙拉,2,好吃
+20,3,Ruins Coffee Roasters,22,藍莓貝果,2,太甜了
+21,3,Ruins Coffee Roasters,13,卡布奇諾,2,好吃
+22,3,Ruins Coffee Roasters,14,提拉米蘇,2,太甜了
+23,3,Ruins Coffee Roasters,15,起司蛋糕,2,好吃
+24,3,Ruins Coffee Roasters,16,草莓蛋糕,2,太甜了
+25,3,Ruins Coffee Roasters,17,芋頭蛋糕,1,普通
+26,3,Ruins Coffee Roasters,18,焦糖布丁,1,普通
+27,3,Ruins Coffee Roasters,19,蛋塔,1,普通
+28,3,Ruins Coffee Roasters,20,手工餅乾,1,太硬了
+1,4,Backstage Caf?,1,起司蛋糕,4,很濃
+2,4,Backstage Caf?,2,可麗露,4,好吃
+3,4,Backstage Caf?,3,焦糖瑪奇朵,4,好喝
+4,4,Backstage Caf?,4,拿鐵,4,普通
+5,4,Backstage Caf?,5,紅茶,4,普通
+6,4,Backstage Caf?,6,奶茶,4,好喝
+7,4,Backstage Caf?,7,綠茶,4,好喝
+8,4,Backstage Caf?,8,可可,4,太甜了
+9,4,Backstage Caf?,9,重乳酪,4,好吃
+10,4,Backstage Caf?,10,輕乳酪,4,普通
+11,4,Backstage Caf?,11,鬆餅,4,好吃
+12,4,Backstage Caf?,12,草莓蛋糕,4,太好吃了
+13,4,Backstage Caf?,13,啤酒,4,好喝
+14,4,Backstage Caf?,1,起司蛋糕,4,好吃
+15,4,Backstage Caf?,2,可麗露,4,好喝
+16,4,Backstage Caf?,3,焦糖瑪奇朵,4,普通
+17,4,Backstage Caf?,4,拿鐵,4,普通
+1,5,Rebirth cafe心，聚點,1,美式咖啡,5,超驚豔
+2,5,Rebirth cafe心，聚點,2,拿鐵,5,好好喝！
+3,5,Rebirth cafe心，聚點,3,奶茶,5,超驚豔
+4,5,Rebirth cafe心，聚點,4,抹茶拿鐵,5,太甜了
+5,5,Rebirth cafe心，聚點,5,珍珠奶茶,5,好喝
+6,5,Rebirth cafe心，聚點,6,芋頭鮮奶,5,好喝
+7,5,Rebirth cafe心，聚點,7,蘋果牛奶,5,好喝
+8,5,Rebirth cafe心，聚點,8,橘子牛奶,5,好喝
+9,5,Rebirth cafe心，聚點,9,芒果牛奶,5,好喝
+10,5,Rebirth cafe心，聚點,10,香蕉牛奶,5,好喝
+11,5,Rebirth cafe心，聚點,11,濃縮咖啡,5,好喝
+12,5,Rebirth cafe心，聚點,12,奶昔,5,好喝
+13,5,Rebirth cafe心，聚點,13,卡布奇諾,5,好喝
